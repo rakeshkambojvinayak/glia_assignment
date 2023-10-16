@@ -12,7 +12,7 @@ The model with GloVe training is in progress, and I will share the updated file 
 **Note**: The trained models are large in size. You can download them from the following link:
 [Trained Models on Google Drive](https://drive.google.com/file/d/1Q7jAkE0NYCyQ-VriAHjUMh7PA5ZFo6Oz/view?usp=sharing)
 
-I did not use any pre-trained LLM models, as I achieved satisfactory accuracy by coding the models from scratch.
+I did not use any pre-trained LLM or pretrained models, as I achieved satisfactory accuracy by coding the models from scratch.
 
 ## Running the Notebooks
 
@@ -22,5 +22,5 @@ To run the notebooks:
 
 ## Deployment as API Service
 
-For instructions on deploying as an API service, please refer to the `/app/README.md` file.
+For instructions on deploying as an API service, please refer to the `[/app/README.md](https://github.com/rakeshkambojvinayak/glia_assignment/tree/main/app)` file.
 
