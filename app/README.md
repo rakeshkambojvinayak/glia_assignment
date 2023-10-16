@@ -36,11 +36,9 @@ Make sure you have the following files in your project directory:
 
 
 2. Build the Docker image using the following command:
-```bash
 docker build -t app .
 
 3. Run the Docker image using the following command:
-```bash
 docker run -p 8000:8000 app
 
 	
