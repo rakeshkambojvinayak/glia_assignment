@@ -1,0 +1,9 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+requests==2.26.0
+matplotlib==3.4.3
+nltk==3.6.3
+aiofiles
+pandas
+numpy
+tensorflow 
