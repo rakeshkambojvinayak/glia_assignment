@@ -23,5 +23,5 @@ To run the notebooks:
 
 ## Deployment as API Service
 
-For instructions on deploying as an API service, please refer to the [/app/README.md](https://github.com/rakeshkambojvinayak/glia_assignment/tree/main/app) file.
+For instructions on deploying as an API service, please refer to the [README.md](https://github.com/rakeshkambojvinayak/glia_assignment/tree/main/app) file.
 
