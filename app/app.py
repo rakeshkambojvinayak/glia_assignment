@@ -7,7 +7,7 @@ import numpy as np
 from pydantic import BaseModel 
 
 # Load the pre-trained model
-model = load_model('model_version/classifier_model.h5', compile=False)
+model = load_model('model_version/model_base.h5', compile=False)
 
 app = FastAPI()
 labels = ['Business', 'Entertainment', 'Politics', 'Sports', 'Tech']
